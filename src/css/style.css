@@ -4,7 +4,7 @@ body {
   font-family: sans-serif; }
 
 .navbar {
-  border-bottom: #fff 3px solid;
+  border-bottom: #008ed6 3px solid;
   opacity: 0.8; }
 
 #home-section {
@@ -30,6 +30,8 @@ body {
   min-height: 200px; }
   #member-benefits-section .benefits-header-text {
     font-size: 40px; }
+  #member-benefits-section .head-icon {
+    font-size: 5em; }
 
 #upcoming-bands-section {
   min-height: 200px; }
